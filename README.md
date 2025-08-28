@@ -2,6 +2,8 @@
 
 Une démonstration technique d'un workflow d'automatisation d'emails utilisant n8n.
 
+🚀 Démo en ligne : [https://axiorix0.github.io/demo-n8n/](https://axiorix0.github.io/demo-n8n/)
+
 ## Description
 
 Ce projet est une démonstration technique d'un système d'automatisation d'emails utilisant n8n. Il simule un workflow complet de réception, classification, génération de réponse et envoi d'emails.
