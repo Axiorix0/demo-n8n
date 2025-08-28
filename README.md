@@ -30,4 +30,4 @@ Ce projet est une démonstration technique d'un système d'automatisation d'emai
 ## Auteur
 
 Ce code est fourni à titre éducatif uniquement.
-© 2025 – Aucun lien avec Axiorix 
+© 2025 – Aucun lien avec une entreprise spécifique.
