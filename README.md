@@ -2,7 +2,7 @@
 
 Une démonstration technique d'un workflow d'automatisation d'emails utilisant n8n.
 
-🚀 Démo en ligne : [https://axiorix0.github.io/demo-n8n/](https://axiorix0.github.io/demo-n8n/)
+🚀 Démo en ligne : [https://axiorix-pro.github.io/demo-n8n/](https://axiorix-pro.github.io/demo-n8n/)
 
 ## Description
 
