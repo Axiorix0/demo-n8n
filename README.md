@@ -40,3 +40,7 @@ Ce projet est une démonstration technique d'un système d'automatisation d'emai
 
 **Axiorix** — Cas pratiques & formations IA pour **PME suisses**  
 🌐 [https://www.axiorix.com/](https://www.axiorix.com/)
+
+---
+
+Licence : Tous droits réservés — voir le fichier [LICENSE](LICENSE).
